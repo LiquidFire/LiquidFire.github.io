@@ -1,0 +1,11 @@
+# Site settings
+title: lfire.net
+email: lfire@lfire.net
+#description:
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://lfire.net" # the base hostname & protocol for your site
+github_username:  LiquidFire
+
+# Build settings
+markdown: kramdown
+exclude: ["README", "Gemfile", "Gemfile.lock"]

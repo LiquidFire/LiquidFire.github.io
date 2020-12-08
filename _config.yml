@@ -9,3 +9,5 @@ github_username:  LiquidFire
 # Build settings
 markdown: kramdown
 exclude: ["README", "Gemfile", "Gemfile.lock"]
+
+theme: jekyll-theme-hacker
